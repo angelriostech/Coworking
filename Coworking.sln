@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Layers", "1-Layers", "{4E
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.1-Servicios Distribuidos", "1.1-Servicios Distribuidos", "{7CAC6175-2BA7-4A93-854D-E29215AFE261}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.2-Aplicacion", "1.2-Aplicacion", "{2A1AFB08-EDAC-4D3B-8CCF-8D797B05E9C9}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.2-Application", "1.2-Application", "{2A1AFB08-EDAC-4D3B-8CCF-8D797B05E9C9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coworking.Api.Application", "..\Coworking.Api.Application\Coworking.Api.Application.csproj", "{80204930-0CE3-41E6-8D8D-1A2676210291}"
 EndProject
